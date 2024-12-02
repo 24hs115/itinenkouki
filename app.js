@@ -8,7 +8,7 @@
             if (number1 === "0" && number2 === "0" && number3 === "0" && number4 === "0") {
                 result = "さすがに雑すぎる";
             } else{
-                    result = "開かない"
+                    result = "開かない";
             }
             
 
