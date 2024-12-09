@@ -31,6 +31,10 @@
                 result = "開いた　刺身醤油すきだよ"; 
             }else if((number1 === "1" && number2 === "2") && (number3 === "2" && number4 === "5")){
                 result = "開いた　プレゼントは貰えたかな？"; 
+            }else if((number1 === "1" && number2 === "0") && (number3 === "0" && number4 === "0")){
+                result = "開いた　キリがいいね"; 
+            }else if((number1 === "5" && number2 === "5") && (number3 === "5" && number4 === "5")){
+                result = "開いた　GO!GO!GO!GO!"; 
             }
             else{
                     result = "開かない";
