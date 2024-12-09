@@ -21,6 +21,16 @@
                 result = "開いた　大声で叫ばないようにね"; 
             }else if((number1 === "7" && number2 === "7") && (number3 === "7" && number4 === "7")){
                 result = "開いた　運がよくなりそうだね"; 
+            }else if((number1 === "9" && number2 === "9") && (number3 === "9" && number4 === "9")){
+                result = "開いた　一個ずらすだけだもんね"; 
+            }else if((number1 === "4" && number2 === "6") && (number3 === "4" && number4 === "9")){
+                result = "開いた　もっとわかりにくい番号をよろしく頼むよ"; 
+            }else if((number1 === "1" && number2 === "1") && (number3 === "1" && number4 === "1")){
+                result = "開いた　チョコ菓子が思い浮かぶな"; 
+            }else if((number1 === "0" && number2 === "3") && (number3 === "4" && number4 === "3")){
+                result = "開いた　刺身醤油すきだよ"; 
+            }else if((number1 === "1" && number2 === "2") && (number3 === "2" && number4 === "5")){
+                result = "開いた　プレゼントは貰えたかな？"; 
             }
             else{
                     result = "開かない";
